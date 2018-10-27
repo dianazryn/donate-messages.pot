@@ -1,0 +1,14 @@
+* The Tor Project / Tor Project Support & Community Portal / donate-messages.pot / string 10 *
+
+ORIGINAL TEXT
+-------------
+The Tor Project will never have access to your financial data, such as your credit card
+information. We aim to be careful with your information.
+
+TRANSLATION
+-----------
+The Tor Project никогда не будет иметь доступа к вашей финансовой информации, например к
+информации о вашей кредитной карте. Мы стремимся быть осторожными с вашей информацией.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
