@@ -1,4 +1,4 @@
-* The Tor Project / Tor Project Support & Community Portal / Support portal - content.pot / string 4 *
+* The Tor Project / Tor Project Support & Community Portal / donate-messages.pot / string 4 *
 
 ORIGINAL TEXT
 -------------
