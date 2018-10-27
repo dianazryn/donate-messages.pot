@@ -1,0 +1,14 @@
+* The Tor Project / Tor Project Support & Community Portal / donate-messages.pot / string 5 *
+
+ORIGINAL TEXT
+-------------
+If you provide personal information as part of the donation process, it may be collected and
+retained by third-party service providers and/or the Tor Project, as described below.
+
+TRANSLATION
+-----------
+Если вы предоставляете свою личную информацию в рамках процесса пожертвования, она может быть
+собрана и сохранена сторонними поставщиками услуг и/или The Tor Project, как описано ниже.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
