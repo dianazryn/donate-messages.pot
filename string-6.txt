@@ -1,0 +1,14 @@
+* The Tor Project / Tor Project Support & Community Portal / donate-messages.pot / string 6 *
+
+ORIGINAL TEXT
+-------------
+The Tor Project has very little influence over how third-party service providers,
+such as PayPal, may collect and use your information.
+
+TRANSLATION
+-----------
+The Tor Project оказывает весьма незначительное влияние на то, как сторонние поставщики услуг,
+например PayPal, могут собирать и использовать вашу информацию.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
