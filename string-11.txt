@@ -1,0 +1,12 @@
+* The Tor Project / Tor Project Support & Community Portal / donate-messages.pot / string 11 *
+
+ORIGINAL TEXT
+-------------
+If you have provided your email address, we will email you once to thank you and give you a receipt.
+
+TRANSLATION
+-----------
+Если вы указали свой адрес электронной почты, мы отправим вам письмо благодарности с вашей квитанцией.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
