@@ -1,0 +1,12 @@
+* The Tor Project / Tor Project Support & Community Portal / donate-messages.pot / string 103 *
+
+ORIGINAL TEXT
+-------------
+In countries that censor the internet, people use Tor to access critical resources.
+
+TRANSLATION
+-----------
+В странах с интернет-цензурой люди используют Tor для доступа к критически важным ресурсам. 
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
