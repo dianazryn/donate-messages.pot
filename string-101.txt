@@ -1,0 +1,12 @@
+* The Tor Project / Tor Project Support & Community Portal / donate-messages.pot / string 101 *
+
+ORIGINAL TEXT
+-------------
+TOR SAVES LIVES
+
+TRANSLATION
+-----------
+TOR СПАСАЕТ ЖИЗНИ
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
