@@ -1,0 +1,12 @@
+* The Tor Project / Tor Project Support & Community Portal / donate-messages.pot / string 102 *
+
+ORIGINAL TEXT
+-------------
+Activists and journalists use the Tor network and software to alert the world to human rights abuses.
+
+TRANSLATION
+-----------
+Активисты и журналисты используют сеть и программное обеспечение Tor, чтобы предупредить мир о нарушениях прав человека.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
