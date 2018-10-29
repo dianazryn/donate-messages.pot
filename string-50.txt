@@ -1,0 +1,12 @@
+* The Tor Project / Tor Project Support & Community Portal / donate-messages.pot / string 50 *
+
+ORIGINAL TEXT
+-------------
+No thanks, I don't want a gift. I would prefer 100% of my donation to go to the Tor Project's work.
+
+TRANSLATION
+-----------
+Нет, спасибо, мне не нужен подарок. Я бы предпочел, чтобы 100% моего пожертвования пошли на работу The Tor Project. 
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
