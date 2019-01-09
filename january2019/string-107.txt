@@ -1,0 +1,17 @@
+* The Tor Project / Tor Project Support & Community Portal / donate-messages.pot / string 107 *
+
+ORIGINAL TEXT
+-------------
+With your support and the generous matching funds from Mozilla, we'll be able to tackle ambitious
+projects, such as developing a more secure, privacy-enhancing browser for mobile devices and making
+it easier for third-party developers to integrate Tor into their applications.
+
+
+TRANSLATION
+-----------
+Благодаря вашей поддержке и щедрым встречным финансированием от Mozilla, мы сможем заняться амбициозными
+проектами, такими как разработка более безопасного и повышающего приватность браузера для мобильных устройств,
+а также упрощение сторонним разработчикам интеграцию Tor в свои приложения.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
