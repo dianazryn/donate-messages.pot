@@ -1,0 +1,12 @@
+* The Tor Project / Tor Project Support & Community Portal / donate-messages.pot / string 56 *
+
+ORIGINAL TEXT
+-------------
+Your generous support of Tor gets you this high-quality zip hoodie.
+
+TRANSLATION
+-----------
+Вы получаете эту высококачественную толстовку на молнии за вашу щедрую поддержку Tor.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
