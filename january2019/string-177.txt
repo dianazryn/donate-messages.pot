@@ -2,11 +2,13 @@
 
 ORIGINAL TEXT
 -------------
-The remaining 10% is spent on travel, meetings and conferences, which are important for Tor because the Tor community is global.
+The remaining 10% is spent on travel, meetings and conferences, which are important for Tor
+because the Tor community is global.
 
 TRANSLATION
 -----------
-Остальные 10% тратятся на поездки, встречи и конференции, которые важны для Tor, потому что сообщество Tor является глобальным.
+Остальные 10% тратятся на поездки, встречи и конференции, которые важны для Tor, потому что
+сообщество Tor является глобальным.
 
 
 // (c) Diana Azaryan @dianazryn, 2019.
