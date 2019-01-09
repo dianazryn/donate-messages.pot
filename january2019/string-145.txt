@@ -1,0 +1,19 @@
+* The Tor Project / Tor Project Support & Community Portal / donate-messages.pot / string 145 *
+
+ORIGINAL TEXT
+-----------
+Thousands of individuals have donated to support the Tor Project, and we have also received funding
+from a wide range of organizations including Google, the Ford Foundation, the Knight Foundation,
+Reddit, the U.S. National Science Foundation, the Electronic Frontier Foundation, Human Rights Watch,
+the Swedish International Development Cooperation Agency, the Federal Foreign Office of Germany,
+the U.S. Naval Research Laboratory, Omidyar Network, SRI International, and Radio Free Asia.
+
+TRANSLATION
+-----------
+Тысячи людей жертвуют деньги The Tor Project. Мы также получаем поддержку от широкого круга организаций,
+включая Google, Ford Foundation, Knight Foundation, Reddit, U.S. National Science Foundation, Electronic
+Frontier Foundation, Human Rights Watch, Swedish International Development Cooperation Agency, Federal
+Foreign Office of Germany, U.S. Naval Research Laboratory, Omidyar Network, SRI International и Radio Free Asia.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
