@@ -1,0 +1,12 @@
+* The Tor Project / Tor Project Support & Community Portal / donate-messages.pot / string 175 *
+
+ORIGINAL TEXT
+-------------
+About 80% of the Tor Project's spending goes to staffing, mostly software engineers.
+
+TRANSLATION
+-----------
+Около 80% расходов The Tor Project идет на персонал, в основном на разработчиков программного обеспечения.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
