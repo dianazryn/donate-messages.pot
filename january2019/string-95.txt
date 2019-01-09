@@ -1,0 +1,12 @@
+* The Tor Project / Tor Project Support & Community Portal / donate-messages.pot / string 95 *
+
+ORIGINAL TEXT
+-------------
+Stand up for the universal human rights to privacy and freedom and help keep Tor robust and secure.
+
+TRANSLATION
+-----------
+Отстаивайте универсальные права человека на приватность и свободу и помогите сохранить надежность и безопасность Tor.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
